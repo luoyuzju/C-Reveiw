@@ -1,1 +1,2 @@
-First to use Git.
+First to use the Git.
+Then modify it.
