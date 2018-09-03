@@ -1,2 +1,1 @@
-Learn Git.
-LEARN
+First to use Git.
